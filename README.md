@@ -151,10 +151,10 @@ python main.py
 
 ### How to Contribute
 ```bash
-# We welcome contributions to improve TubeTok Downloader 5.0.
+# We welcome contributions to improve Tok Downloader 5.0.
 # Please submit issues or pull requests via GitHub.
 
-# Enjoy using TubeTok Downloader 5.0!
+# Enjoy using Tok Downloader 5.0!
 🚀
 ```
 
