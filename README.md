@@ -1,6 +1,11 @@
 # 💚 Mass TikTok video Downloader 5.0 🎥
 Mass TikTok video downloader, Twitter Video Downloader (HD), tiktok video downloader, tiktok video downloader without watermark, tiktok video downloader no watermark, tiktok video downloader 4k.
-![Image](assets/release.png)
+
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1000" alt="TikTok Video Downloader No Watermark Banner" src="assets/release.png" />
+  </a>
+</div>
 
   ### Modern Downloader with Advanced Features
   
