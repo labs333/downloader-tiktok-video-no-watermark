@@ -105,23 +105,6 @@
 - **FFmpeg Detection**  
   Automatically detects FFmpeg installation and prompts for setup if missing.
 
-## Screenshots
-
-### Homepage
-![Image](assets/image.png)
-
-### Videopage
-![Image](assets/image2.png)
-
-### Audiopage
-![Image](assets/image3.png)
-
-### History
-![Image](assets/image4.png)
-
-### Settings
-![Image](assets/image5.png)
-
 ## ⚙️ Installation
 
 ### Windows
