@@ -17,7 +17,7 @@ Mass TikTok video downloader, Twitter Video Downloader (HD), tiktok video downlo
 
 ## 📋 Table of Contents
 - [Features](#-key-features)
-- [Installation](https://github.com/erfukuby/toktube/releases)
+- [Installation](../../releases)
 - [Usage](#-usage)
 - [Screenshots](showcase/showcase.md)
 - [Contributing](CONTRIBUTING.md)
