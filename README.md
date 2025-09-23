@@ -109,6 +109,20 @@ Mass TikTok video downloader, Twitter Video Downloader (HD), tiktok video downlo
 ### 🔧 Technical Features
 - **FFmpeg Detection**  
   Automatically detects FFmpeg installation and prompts for setup if missing.
+  
+## Screenshots
+
+### Homepage
+![Image](homepage.png)
+
+### Videopage
+![Image](videopage.png)
+
+### Audiopage
+![Image](audiopage.png)
+
+### History
+![Image](history.png)
 
 ## ⚙️ Installation
 
