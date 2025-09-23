@@ -113,16 +113,16 @@ Mass TikTok video downloader, Twitter Video Downloader (HD), tiktok video downlo
 ## Screenshots
 
 ### Homepage
-![Image](homepage.png)
+![Image](assets/homepage.png)
 
 ### Videopage
-![Image](videopage.png)
+![Image](assets/videopage.png)
 
 ### Audiopage
-![Image](audiopage.png)
+![Image](assets/audiopage.png)
 
 ### History
-![Image](history.png)
+![Image](assets/history.png)
 
 ## ⚙️ Installation
 
